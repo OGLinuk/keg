@@ -1,6 +1,6 @@
 # Golang KEG API (with `keg` and `kn` tools)
 
-See [docs](docs) and <https://github.com/afkworks/specs> for more information.
+See [doc](doc) and <https://github.com/afkworks/specs> for more information.
 
 ![WIP](https://img.shields.io/badge/status-wip-red.svg)
 [![GoDoc](https://godoc.org/github.com/rwxrob/keg?status.svg)](https://godoc.org/github.com/rwxrob/keg)
