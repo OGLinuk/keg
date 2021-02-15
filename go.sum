@@ -1,0 +1,7 @@
+github.com/rwxrob/cmdtab v0.2.3-alpha/go.mod h1:TWGCTFAm9NlO9mR6aUB5dltAhcVK1FTiCzF7WLXwGgQ=
+github.com/rwxrob/cmdtab v0.4.0 h1:bYePmvIhF95Whv/1qA9ucLxDLXq+coC0T7qsZzKtIs8=
+github.com/rwxrob/cmdtab v0.4.0/go.mod h1:TWGCTFAm9NlO9mR6aUB5dltAhcVK1FTiCzF7WLXwGgQ=
+github.com/rwxrob/conf-go v0.3.0 h1:rmVlaOiyNpaeRoidfATReZqJdfPyDpcy/qnRQIZ3D8s=
+github.com/rwxrob/conf-go v0.3.0/go.mod h1:O1pzGwayC8SlsbQeRFe0ZUcJlu7qctJJ/L157PEr4iI=
+github.com/yuin/goldmark v1.3.2 h1:YjHC5TgyMmHpicTgEqDN0Q96Xo8K6tLXPnmNOHXCgs0=
+github.com/yuin/goldmark v1.3.2/go.mod h1:mwnBkeHKe2W/ZEtQ+71ViKU8L12m81fl3OWwC1Zlc8k=
