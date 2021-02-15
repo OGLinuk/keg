@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"code.afk.works/keg-go"
+	"github.com/rwxrob/keg-go"
 )
 
 func main() {
