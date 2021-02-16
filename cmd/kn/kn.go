@@ -5,7 +5,7 @@ import (
 )
 
 func init() {
-	x := cmdtab.New("kn", "datepath", "cd", "config", "add", "tstamp", "md2html")
+	x := cmdtab.New("kn", "datepath", "cd", "config", "add", "tstamp", "html", "jax")
 	x.Summary = ``
 	x.Version = "1.0.0"
 	x.Author = "Rob Muhlestein <rob@rwx.gg> (rob.rwx.gg)"

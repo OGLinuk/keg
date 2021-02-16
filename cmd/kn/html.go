@@ -11,8 +11,8 @@ import (
 )
 
 func init() {
-	x := cmdtab.New("md2html")
-	x.Summary = `converts Markdown to HTML`
+	x := cmdtab.New("html")
+	x.Summary = `converts KEG Mark to HTML`
 	x.Usage = `[<file>]`
 	x.Description = `
 		Converts KEG Mark (Markdown) into HTML. Reads from stdin if no *file*
